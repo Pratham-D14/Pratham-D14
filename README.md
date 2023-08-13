@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-d14&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-d14" /> </p>
 
-- 🌱 I’m currently learning **JavaScript & React Framework**
+- 🌱 I’m currently learning **JavaScript & React**
 
 - 📫 How to reach me **pratham14104@gmail.com**
 
