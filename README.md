@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pratham14104@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1NMOaJpCn3-Q7HcFfvtI471acEr-yBIEn/view?usp=drive_link](https://drive.google.com/file/d/1NMOaJpCn3-Q7HcFfvtI471acEr-yBIEn/view?usp=drive_link)"> Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NMOaJpCn3-Q7HcFfvtI471acEr-yBIEn/view?usp=drive_link"> <b>Resume</b> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
