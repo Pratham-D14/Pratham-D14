@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Darji</h1>
 <h3 align="center">A Passionate Frontend Web Developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript & React Js**
+- 🌱 I’m currently learning **JavaScript & React JS**
 
 - 💬 Ask me about **JavaScript**
 
