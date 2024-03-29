@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pratham14104@gmail.con**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e0bNOdmGLzo6OZXM1XCBqGDvxYCcDJwz/view](https://drive.google.com/file/d/1e0bNOdmGLzo6OZXM1XCBqGDvxYCcDJwz/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1e0bNOdmGLzo6OZXM1XCBqGDvxYCcDJwz/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
