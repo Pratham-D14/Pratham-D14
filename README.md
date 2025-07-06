@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratham Darji</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Always **Learning**
 
 - 📫 How to reach me **pratham14104@gmail.con**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1e0bNOdmGLzo6OZXM1XCBqGDvxYCcDJwz/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VNYZdFCzwLYWHpK_ymC8l76ly2y1bCTD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
