@@ -31,7 +31,20 @@ const pratham = {
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) | | | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | | |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | | | |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | | |
+
+</div>
+
+<!-- Certifications -->
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="25"> Certifications
+
+<div align="center">
+
+[![Claude Code 101](https://img.shields.io/badge/Claude_Code_101-Certificate_of_Completion-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/9p96wgkodt6v)
+
+[![OCI AI Foundations](https://img.shields.io/badge/Oracle_Cloud_AI_Foundations-2025_Certified_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=003C095C2935BD5D066270109167ABECBF5A9A6ADCF1CFB7F54C6043ECE7FBC3)
+
+[![React JS](https://img.shields.io/badge/React_JS-GeeksforGeeks_Certified-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/certificate/1cac32f39715921b907f441c60d23282)
 
 </div>
 
