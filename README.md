@@ -38,13 +38,28 @@ const pratham = {
 ## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="25"> Certifications
 
 <div align="center">
-
-[![Claude Code 101](https://img.shields.io/badge/Claude_Code_101-Certificate_of_Completion-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/9p96wgkodt6v)
-
-[![OCI AI Foundations](https://img.shields.io/badge/Oracle_Cloud_AI_Foundations-2025_Certified_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=003C095C2935BD5D066270109167ABECBF5A9A6ADCF1CFB7F54C6043ECE7FBC3)
-
-[![React JS](https://img.shields.io/badge/React_JS-GeeksforGeeks_Certified-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/certificate/1cac32f39715921b907f441c60d23282)
-
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/><br/>
+<b>Claude Code 101</b><br/>
+<sub>Certificate of Completion</sub><br/><br/>
+<a href="https://verify.skilljar.com/c/9p96wgkodt6v"><img src="https://img.shields.io/badge/Verify-blue?style=flat-square&logo=checkmarx&logoColor=white"/></a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/>
+<b>OCI AI Foundations 2025</b><br/>
+<sub>Certified Associate</sub><br/><br/>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=003C095C2935BD5D066270109167ABECBF5A9A6ADCF1CFB7F54C6043ECE7FBC3"><img src="https://img.shields.io/badge/Verify-blue?style=flat-square&logo=checkmarx&logoColor=white"/></a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/><br/>
+<b>React JS</b><br/>
+<sub>Certification Course</sub><br/><br/>
+<a href="https://www.geeksforgeeks.org/certificate/1cac32f39715921b907f441c60d23282"><img src="https://img.shields.io/badge/Verify-blue?style=flat-square&logo=checkmarx&logoColor=white"/></a>
+</td>
+</tr>
+</table>
 </div>
 
 
