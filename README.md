@@ -48,7 +48,7 @@ const pratham = {
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/>
-<b>OCI AI Foundations 2025</b><br/>
+<b>OCI AI Foundations</b><br/>
 <sub>Certified Associate</sub><br/><br/>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=003C095C2935BD5D066270109167ABECBF5A9A6ADCF1CFB7F54C6043ECE7FBC3"><img src="https://img.shields.io/badge/Verify-blue?style=flat-square&logo=checkmarx&logoColor=white"/></a>
 </td>
