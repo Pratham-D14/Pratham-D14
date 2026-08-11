@@ -37,14 +37,16 @@ const pratham = {
 <!-- Certifications -->
 ## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="25"> Certifications
 
-- 📜 **Claude Code 101** — Anthropic
-  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certificate of Completion · [Verify →](https://verify.skilljar.com/c/9p96wgkodt6v)
+- 🏅 **React JS Certification** — GeeksforGeeks
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certification Course · [Verify →](https://www.geeksforgeeks.org/certificate/1cac32f39715921b907f441c60d23282)
 
-- 📜 **OCI AI Foundations 2025** — Oracle
+- 🏅 **OCI AI Foundations 2025** — Oracle
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certified Associate · [Verify →](https://catalog-education.oracle.com/ords/certview/sharebadge?id=003C095C2935BD5D066270109167ABECBF5A9A6ADCF1CFB7F54C6043ECE7FBC3)
 
-- 📜 **React JS Certification** — GeeksforGeeks
-  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certification Course · [Verify →](https://www.geeksforgeeks.org/certificate/1cac32f39715921b907f441c60d23282)
+- 🏅 **Claude Code 101** — Anthropic
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certificate of Completion · [Verify →](https://verify.skilljar.com/c/9p96wgkodt6v)
+
+
 
 
 <!-- Connect -->
