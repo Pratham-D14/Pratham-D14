@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D9FF&height=200&section=header&text=Pratham%20Darji&fontSize=42&fontColor=00D9FF&animation=scaleIn&fontAlignY=30&desc=%3C%2F%3E%20Software%20Developer%20%7C%20India&descSize=18&descAlignY=50&descColor=6AD3F7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d9ff&height=200&section=header&text=Pratham%20Darji&fontSize=42&fontColor=00d9ff&animation=scaleIn&fontAlignY=30&desc=%3C/%3E%20Software%20Developer%20|%20India&descSize=18&descAlignY=50&descColor=6ad3f7" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Always+Learning+%F0%9F%9A%80;Building+Cool+Stuff+with+Code" alt="Typing SVG" /></a>
@@ -68,4 +68,4 @@ const pratham = {
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D9FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d9ff&height=100&section=footer" width="100%"/>
