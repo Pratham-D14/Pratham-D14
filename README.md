@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratham%20Darji&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%3C/%3E%20Software%20Developer%20%7C%20India&descSize=18&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratham%20Darji&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20India&descSize=18&descAlignY=52" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Full+Stack+Developer;Always+Learning+%F0%9F%9A%80;Building+Cool+Stuff+with+Code" alt="Typing SVG" /></a>
@@ -37,16 +37,30 @@ const pratham = {
 <!-- Certifications -->
 ## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="25"> Certifications
 
-- 🏅 **React JS Certification** — GeeksforGeeks
-  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certification Course · [Verify →](https://www.geeksforgeeks.org/certificate/1cac32f39715921b907f441c60d23282)
-
-- 🏅 **OCI AI Foundations 2025** — Oracle
-  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certified Associate · [Verify →](https://catalog-education.oracle.com/ords/certview/sharebadge?id=003C095C2935BD5D066270109167ABECBF5A9A6ADCF1CFB7F54C6043ECE7FBC3)
-
-- 🏅 **Claude Code 101** — Anthropic
-  <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certificate of Completion · [Verify →](https://verify.skilljar.com/c/9p96wgkodt6v)
-
-
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/><br/>
+<b>Claude Code 101</b><br/>
+<sub>Certificate of Completion</sub><br/><br/>
+<a href="https://verify.skilljar.com/c/9p96wgkodt6v"><img src="https://img.shields.io/badge/Verify-blue?style=flat-square&logo=checkmarx&logoColor=white"/></a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/>
+<b>OCI AI Foundations 2025</b><br/>
+<sub>Certified Associate</sub><br/><br/>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=003C095C2935BD5D066270109167ABECBF5A9A6ADCF1CFB7F54C6043ECE7FBC3"><img src="https://img.shields.io/badge/Verify-blue?style=flat-square&logo=checkmarx&logoColor=white"/></a>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/><br/>
+<b>React JS</b><br/>
+<sub>Certification Course</sub><br/><br/>
+<a href="https://www.geeksforgeeks.org/certificate/1cac32f39715921b907f441c60d23282"><img src="https://img.shields.io/badge/Verify-blue?style=flat-square&logo=checkmarx&logoColor=white"/></a>
+</td>
+</tr>
+</table>
+</div>
 
 
 <!-- Connect -->
@@ -68,4 +82,4 @@ const pratham = {
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
