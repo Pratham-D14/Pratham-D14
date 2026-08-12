@@ -15,9 +15,9 @@
 const pratham = {
     location: "India",
     learning: "Always",
+    experience: "3+ years",
     email: "pratham14104@gmail.com",
-    resume: "https://drive.google.com/file/d/1JDA_H4KXgdU1zBcaKTTYOXGALUhuc7ee/view",
-    experience: "3+ years"
+    resume: "https://drive.google.com/file/d/1JDA_H4KXgdU1zBcaKTTYOXGALUhuc7ee/view"
 };
 ```
 
